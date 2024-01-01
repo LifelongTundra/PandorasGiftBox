@@ -12,4 +12,4 @@ This should in theory work with other mods, as long as it doesn't remove or rena
 
 ## Any other plans for the mod?
 
-Ideally make the reward for opening a present to be slightly better, even though this is a gag mod that anyone can play around for the downside of losing an hour and more enemies I feel a better reward is appropriate. In addition I would like to enventually add in a specific item for this instead of changing the gift box.
+Ideally make the reward for opening a present to be slightly better, even though this is a gag mod that anyone can play around for the downside of losing an hour and more enemies I feel a better reward is appropriate. In addition I would like to eventually add in a specific item for this instead of changing the gift box.
