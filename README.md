@@ -4,7 +4,7 @@ This is my first attempt at a mod for any game hope you enjoy!
 
 ## What does it do?
 
-When someone opens one of the normally spawning presents it will jump the time to 12 pm, unless it has past in which case it adds an hour. In addition it will up the spawn probability and set the minimum enemies to spawn to the same levels as if the moon was eclisped.
+When someone opens one of the normally spawning presents it will jump the time to 12 pm, unless it has past in which case it adds an hour. In addition it will up the spawn probability and set the minimum enemies to spawn to the same levels as if the moon was eclipsed.
 
 ## Does this work with other mods?
 
