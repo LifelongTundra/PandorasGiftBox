@@ -19,7 +19,7 @@ namespace PandorasJackInTheBox.Patches
             if (itemProperties.name == "GiftBox")
             {
                 PandorasBoxBase.mls.LogInfo("Gift Box was opened");
-                RoundManagerPatch.flag = true;
+                RoundManagerPatch.giftOpenedFlag = true;
             }
         }
     }
